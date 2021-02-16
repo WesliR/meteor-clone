@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 250px;
+  padding-bottom: 250px;
+  padding-left: 32px;
+  padding-right: 32px;
+  height: 640px}
+
+
+
+.card {
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-top: 162px;
+  padding-bottom: 162px;
+  background-color: #1b2448;
+}
+
+.btn {
+  margin-left: 20px;
+}
